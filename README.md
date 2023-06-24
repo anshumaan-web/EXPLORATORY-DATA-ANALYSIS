@@ -5,3 +5,4 @@ a. Numpy
 b. Pandas
 c. Matplotlib
 d. seaborn
+Using the Google collab noteboob using the python Platform
